@@ -1,0 +1,21 @@
+
+.text-muted{color:grey; font-style: italic; font-size: medium;}
+
+.topofthepage{background-image: url(HeaderBG.jpg);
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+.textboxtitle{padding-top: 60px; 
+            padding-right: 25px;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 50px; text-align: center;}
+
+.textboxtitleunder{padding-top: 20px; 
+                text-align: center;}
+
+p {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
