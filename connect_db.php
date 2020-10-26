@@ -8,6 +8,6 @@
   OR die
       ( mysqli_connect_error());
 		
-  Echo "Connected";
+  Echo "<br>Connected";
   
 ?>           
