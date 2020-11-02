@@ -34,7 +34,7 @@ echo "<li> trim(string) --- Removes leading/trailing blanks";
 echo "<li> trim(string,char) --- Removes leading/trailing chars)"; 
 echo "</ul>";
 
-echo "<br><br> Step 4 - Looping with the FOR Command";
+echo "Step 4 - Looping with the FOR Command";
   for ($x = 1; $x < 13; $x++)
     {echo "<br> Month $x has " . days_per_month($x) . " days";} 	   
 
